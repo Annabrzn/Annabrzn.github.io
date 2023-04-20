@@ -3,6 +3,7 @@ title = "Pippo"
 
 theme = "puppet"
 themesDir = "themes"
+publishDir = "docs"
 
 copyright = ""
 paginate = 3
