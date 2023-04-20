@@ -71,7 +71,7 @@ weight = 100
 
 [params]
 author = "Puppet"
-description = "A simple and clean theme for Hugo"
+description = "Il sistema permette alle persone con disabilità di poter praticare lo snowboard."
 keywords = "blog,developer,personal"
 img_home = "img/home-bg.jpg"
 img_404 = "img/404-bg.jpg"
