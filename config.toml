@@ -74,7 +74,7 @@ author = "Puppet"
 description = "Sono Annamaria e qui troverete tutti i miei progetti"
 keywords = "blog,developer,personal"
 img_home = "img/ok.jpg"
-img_404 = "img/404-bg.jpg"
+img_404 = "img/home.jpg"
 
 useFaviconGenerator = true
 
@@ -85,7 +85,7 @@ custom_css = [] # ["css/custom.css"]  Add your file to assets folder  [assets/cs
 enable = true
 gravatarEmail = ""
 # Overwritten by your gravatar image if `gravatarEmail` is filled
-avatar = "img/home-bg.jpg"
+avatar = "img/home.jpg"
 bio = "a personal website"
 
 [params.social]
