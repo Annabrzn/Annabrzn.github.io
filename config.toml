@@ -1,5 +1,5 @@
 baseURL = "http://Annabrzn.github.io"
-title = "Portfolio"
+title = "Annamaria Brizzi"
 
 theme = "puppet"
 themesDir = "themes"
@@ -73,7 +73,7 @@ weight = 100
 author = "Puppet"
 description = "Sono Annamaria e qui troverete tutti i miei progetti"
 keywords = "blog,developer,personal"
-img_home = "img/home-bg.jpg"
+img_home = "img/ok.jpg"
 img_404 = "img/404-bg.jpg"
 
 useFaviconGenerator = true
