@@ -63,9 +63,9 @@ name = "About"
 url = "/about/"
 weight = 50
 [[menu.main]]
-identifier = "github"
-name = "Github"
-url = "https://github.com/roninro/hugo-theme-puppet/"
+identifier = "instagram"
+name = "instagram"
+url = "https://www.instagram.com/annamaria__brizzi/"
 weight = 100
 
 
@@ -73,7 +73,7 @@ weight = 100
 author = "Puppet"
 description = "Sono Annamaria e qui troverete tutti i miei progetti"
 keywords = "blog,developer,personal"
-img_home = "img/home.jpg"
+img_home = "img/home-bg.jpg"
 img_404 = "img/404-bg.jpg"
 
 useFaviconGenerator = true
