@@ -48,8 +48,8 @@ name = "Home"
 url = "/home/"
 weight = -100
 [[menu.main]]
-identifier = "archive"
-name = "Archive"
+identifier = "Progetti"
+name = "Progetti"
 url = "/archive/"
 weight = 10
 [[menu.main]]
@@ -74,7 +74,7 @@ author = "Puppet"
 description = "Questo è il mio portfolio"
 keywords = "blog,developer,personal"
 img_home = "img/ok.jpg"
-img_404 = "img/home.jpg"
+img_404 = "img/ok.jpg"
 
 useFaviconGenerator = true
 
