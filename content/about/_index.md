@@ -1,6 +1,6 @@
 +++
-title = "About"
-description = "Il sistema che permette alle persone con disabilità di poter praticare lo snowboard."
+title = "About Me"
+description = "Ehi,ciao sono Annamaria Brizzi, sono una studentessa dell'Abarc di Reggio Calabria "
 date = "2019-02-28"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
