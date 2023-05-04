@@ -59,7 +59,7 @@ url = "/series/themes-guide/"
 weight = 20
 [[menu.main]]
 identifier = "about"
-name = "About"
+name = "About me"
 url = "/about/"
 weight = 50
 [[menu.main]]
