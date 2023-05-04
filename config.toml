@@ -71,7 +71,7 @@ weight = 100
 
 [params]
 author = "Puppet"
-description = "Sono Annamaria e qui troverete tutti i miei progetti"
+description = "Questo è il mio portfolio"
 keywords = "blog,developer,personal"
 img_home = "img/ok.jpg"
 img_404 = "img/home.jpg"
