@@ -32,9 +32,9 @@ pageRef = "pagina"
 weight = 10
 
 [[subnavigation]]
-name = "Serie Tv"
-pageRef = "pagina1"
-weight = 10 
+#name = "Serie Tv"
+#pageRef = "pagina1"
+#weight = 10 
 
 [[subnavigation]]
 #name = "My Awesome Category"
