@@ -1,0 +1,32 @@
+languageCode = "it"
+languageName = "Italian"
+displayName = "IT"
+isoCode = "it"
+weight = 1
+rtl = false
+
+title = "Annamaria Brizzi"
+#logo = "img/logos.png"
+#secondaryLogo = "img/secondary-io.jpeg"
+ description = "My awesome website"
+#copyright = "Perchè sei qui? :thinking_face:"
+
+dateFormat = "2 January 2006"
+
+[author]
+name = "AnnaB"
+image = "img/io.jpeg"
+headline = "Benvenutə nel mio sito"
+
+#bio = "A little bit about you"
+
+links = [
+{ email = "mailto:annamaria.brizzi@abarc.it" },
+
+{ github = "https://github.com/Annabrzn" },
+
+{ instagram = "https://instagram.com/annamaria__brizzi/" },
+
+{ twitter = "https://twitter.com/AnnamariaBrizz" },
+
+  ]
