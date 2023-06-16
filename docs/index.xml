@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Annamaria Brizzi</title>
+    <link>https://annabrz.github.io/</link>
+    <description>Recent content on Annamaria Brizzi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <lastBuildDate>Tue, 23 May 2023 15:55:37 +0200</lastBuildDate><atom:link href="https://annabrz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Casa</title>
+      <link>https://annabrz.github.io/posts/casa/</link>
+      <pubDate>Tue, 23 May 2023 15:55:37 +0200</pubDate>
+      
+      <guid>https://annabrz.github.io/posts/casa/</guid>
+      <description>La calma Controlla anche il mio profilo instagram dove posto tutti i miei scatti e magari seguimi e metti like :)</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://annabrz.github.io/posts/casa/featured.png" />
+    </item>
+    
+    <item>
+      <title>In cucina con la nonna</title>
+      <link>https://annabrz.github.io/posts/famiglia/</link>
+      <pubDate>Tue, 23 May 2023 15:55:37 +0200</pubDate>
+      
+      <guid>https://annabrz.github.io/posts/famiglia/</guid>
+      <description>Ho sempre amato guardarla cucinare.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://annabrz.github.io/posts/famiglia/featured.png" />
+    </item>
+    
+    <item>
+      <title>La prima volta sulla neve</title>
+      <link>https://annabrz.github.io/posts/neve/</link>
+      <pubDate>Tue, 23 May 2023 15:55:37 +0200</pubDate>
+      
+      <guid>https://annabrz.github.io/posts/neve/</guid>
+      <description>Stare così in alto è bellissimo, sembra quasi di toccare il cielo.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://annabrz.github.io/posts/neve/featured.png" />
+    </item>
+    
+    <item>
+      <title>Milano in movimento</title>
+      <link>https://annabrz.github.io/posts/milano/</link>
+      <pubDate>Tue, 23 May 2023 15:55:37 +0200</pubDate>
+      
+      <guid>https://annabrz.github.io/posts/milano/</guid>
+      <description>Milano si muove di continuo, solo gli artisti di strada e i fiumi restano immobili.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://annabrz.github.io/posts/milano/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
