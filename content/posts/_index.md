@@ -19,7 +19,6 @@ herostyle: background
 ---
 
 {{< lead >}}
-### Amo immortalare ogni momento per paura di dimenticare le sensazioni provate vivendoli.
-{{< /lead >}}
+### Amo immortalare ogni momento.
 
 
