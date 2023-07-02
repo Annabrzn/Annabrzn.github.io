@@ -20,4 +20,6 @@ layout: "simple"
 ---
 
 
-### Ciao, sono Annamaria e sono una studentessa presso [**L'Accademia delle Belle Arti**](https://www.abarc.it) di Reggio Calabria nel corso di [**Nuove Tecnologie dell'Arte**.](https://www.abarc.it/didattica/dipartimento-di-progettazione-e-arti-applicate/scuola-di-nuove-tecnologie-dellarte/) Una delle mie passioni è la fotografia e, in questo sito troverai alcuni scatti realizzati da me. Spero ti piacciano! In più se hai dei consigli da darmi scrivimi su [**annamaria.brizzi@abarc.it**](mailto:annamaria.brizzi@abarc.it)
+### Ciao,sono Annamaria e sono una studentessa presso [**L'Accademia delle Belle Arti**](https://www.abarc.it) di Reggio Calabria nel corso di [**Nuove Tecnologie dell'Arte**.](https://www.abarc.it/didattica/dipartimento-di-progettazione-e-arti-applicate/scuola-di-nuove-tecnologie-dellarte/) Una delle mie passioni è la fotografia e, in questo sito troverai alcuni scatti realizzati da me. Spero ti piacciano! In più se hai dei consigli da darmi scrivimi su [**annamaria.brizzi@abarc.it**](mailto:annamaria.brizzi@abarc.it)
+
+

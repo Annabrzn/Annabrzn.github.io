@@ -29,7 +29,15 @@ layout: "simple"
 
 <br/>
 
+<iframe width="100%" height="560" src="https://www.youtube.com/embed/2J4G4NJHnt8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br/>
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/3xGlLcG9CUrs5MvFkSLOS5?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br/>
+
+<iframe width="100%" height="560" src="https://www.youtube.com/embed/hfC__TAl8YA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br/>
 
@@ -37,12 +45,16 @@ layout: "simple"
 
 <br/>
 
+<iframe width="100%" height="560" src="https://www.youtube.com/embed/XSHcZ4rcBDk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br/>
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/4q3ewBCX7sLwd24euuV69X?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <br/>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/28gNT5KBp7IjEOQoevXf9N?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe width="100%" height="560" src="https://www.youtube.com/embed/Cr8K88UcO0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br/>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/7ltDVBr6mKbRvohxheJ9h1?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> 
+
