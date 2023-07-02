@@ -27,7 +27,7 @@ weight = 20
 #weight = 20
 
 [[subnavigation]]
-name = "Musica"
+name = "Musica🎧"
 pageRef = "pagina"
 weight = 10
 
@@ -59,7 +59,7 @@ weight = 10
 
 
 [[footer]]
-name = "**Cliccami!**"
+name = "**👉🏻Cliccami!👈🏻**"
 pageRef = "tags"
 weight = 20
 
